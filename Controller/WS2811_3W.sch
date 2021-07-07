@@ -1,0 +1,104 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Interface_UART:MAX485E U?
+U 1 1 60E3967E
+P 1950 2150
+F 0 "U?" H 1950 2831 50  0000 C CNN
+F 1 "MAX485E" H 1950 2740 50  0000 C CNN
+F 2 "" H 1950 1450 50  0001 C CNN
+F 3 "https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf" H 1950 2200 50  0001 C CNN
+	1    1950 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Interface_UART:MAX485E U?
+U 1 1 60E3AB64
+P 5200 2000
+F 0 "U?" H 5200 2681 50  0000 C CNN
+F 1 "MAX485E" H 5200 2590 50  0000 C CNN
+F 2 "" H 5200 1300 50  0001 C CNN
+F 3 "https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf" H 5200 2050 50  0001 C CNN
+	1    5200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Driver_LED:WS2811 U?
+U 1 1 60E3C941
+P 3700 4000
+F 0 "U?" H 3700 4481 50  0000 C CNN
+F 1 "WS2811" H 3700 4390 50  0000 C CNN
+F 2 "" H 3400 4150 50  0001 C CNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2811.pdf" H 3500 4250 50  0001 C CNN
+	1    3700 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 60E3FC26
+P 1100 2100
+F 0 "R?" H 1170 2146 50  0000 L CNN
+F 1 "R" H 1170 2055 50  0000 L CNN
+F 2 "" V 1030 2100 50  0001 C CNN
+F 3 "~" H 1100 2100 50  0001 C CNN
+	1    1100 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 60E401D6
+P 5850 2100
+F 0 "R?" H 5920 2146 50  0000 L CNN
+F 1 "R" H 5920 2055 50  0000 L CNN
+F 2 "" V 5780 2100 50  0001 C CNN
+F 3 "~" H 5850 2100 50  0001 C CNN
+	1    5850 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 60E408B0
+P 1600 2900
+F 0 "C?" H 1715 2946 50  0000 L CNN
+F 1 "C" H 1715 2855 50  0000 L CNN
+F 2 "" H 1638 2750 50  0001 C CNN
+F 3 "~" H 1600 2900 50  0001 C CNN
+	1    1600 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 60E413BC
+P 5750 1250
+F 0 "C?" H 5865 1296 50  0000 L CNN
+F 1 "C" H 5865 1205 50  0000 L CNN
+F 2 "" H 5788 1100 50  0001 C CNN
+F 3 "~" H 5750 1250 50  0001 C CNN
+	1    5750 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 60E41C64
+P 4000 3550
+F 0 "C?" H 4115 3596 50  0000 L CNN
+F 1 "C" H 4115 3505 50  0000 L CNN
+F 2 "" H 4038 3400 50  0001 C CNN
+F 3 "~" H 4000 3550 50  0001 C CNN
+	1    4000 3550
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
