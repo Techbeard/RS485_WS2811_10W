@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"100n","C1,C2,C3,C5,C8,C9,C10","Capacitor_SMD:C_0603_1608Metric","C14663"
+"4u7","C11,C14,C18","Capacitor_SMD:C_0603_1608Metric","C19666"
+"1n","C4,C12,C16","Capacitor_SMD:C_0603_1608Metric","C1588"
+"1u","C6,C7,C13,C15,C17,C19","Capacitor_SMD:C_0603_1608Metric","C15849"
+"40V 1A Schottky","D4,D5,D6","Diode_SMD:D_SOD-123","C8598"
+"10u","L1,L2,L3","LeoDJ-kicad:L_0520","C438992"
+"0R68","R3,R4,R5","Resistor_SMD:R_1206_3216Metric","C19108"
+"10k","R6,R7,R8","Resistor_SMD:R_0603_1608Metric","C25804"
+"MAX485E","U1,U3","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C269864"
+"WS2811","U2","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C114581"
+"LM78M05_TO252","U4","Package_TO_SOT_SMD:TO-252-2","C58069"
+"BP1808","U5,U6,U7","Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm","C85659"

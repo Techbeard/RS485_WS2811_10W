@@ -1105,7 +1105,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 22.86 39.37 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 6bbb4c7d-56ba-4a53-993d-82aa5d97a0e3)
     (property "Reference" "J1" (id 0) (at 25.5524 34.29 0))
     (property "Value" "Conn_01x01_Female" (id 1) (at 25.5524 36.83 0))
@@ -1119,7 +1119,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 22.86 46.99 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid db34906b-ae73-463a-90b4-6c7dcee8a800)
     (property "Reference" "J2" (id 0) (at 25.5524 41.91 0))
     (property "Value" "Conn_01x01_Female" (id 1) (at 25.5524 44.45 0))
@@ -1133,7 +1133,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 154.94 38.1 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 90b1585f-30b2-44b8-9ece-f52f8f6b0144)
     (property "Reference" "J3" (id 0) (at 152.2476 33.02 0))
     (property "Value" "Conn_01x01_Female" (id 1) (at 152.2476 35.56 0))
@@ -1147,7 +1147,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 154.94 45.72 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 6580c56f-d171-4fec-ab85-6caf32664f7a)
     (property "Reference" "J4" (id 0) (at 152.2476 40.64 0))
     (property "Value" "Conn_01x01_Female" (id 1) (at 152.2476 43.18 0))
@@ -1161,7 +1161,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 158.75 91.44 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 0dfc7477-9b4d-4490-aa8e-882655b7fb05)
     (property "Reference" "J7" (id 0) (at 157.3276 93.98 0))
     (property "Value" "R+" (id 1) (at 161.7726 91.44 0))
@@ -1175,7 +1175,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 158.75 96.52 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d0bfb7b6-4508-4dbe-80cd-a21880799dc3)
     (property "Reference" "J8" (id 0) (at 157.3276 99.06 0))
     (property "Value" "R-" (id 1) (at 161.7726 96.52 0))
@@ -1189,7 +1189,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 158.75 116.84 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 51de410d-12b8-44ad-a997-acd68099ed9b)
     (property "Reference" "J9" (id 0) (at 157.3276 119.38 0))
     (property "Value" "G+" (id 1) (at 161.7726 116.84 0))
@@ -1203,7 +1203,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 158.75 121.92 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a311d758-26f6-4161-be17-6ff9dbe0739a)
     (property "Reference" "J10" (id 0) (at 157.3276 124.46 0))
     (property "Value" "G-" (id 1) (at 161.7726 121.92 0))
@@ -1217,7 +1217,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 158.75 144.78 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 43e91184-a577-45fd-a82f-5003ffd6505f)
     (property "Reference" "J11" (id 0) (at 157.3276 147.32 0))
     (property "Value" "B+" (id 1) (at 161.6456 144.78 0))
@@ -1231,7 +1231,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 158.75 149.86 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a353603b-801e-4190-8deb-39bd74b5f522)
     (property "Reference" "J12" (id 0) (at 157.3276 152.4 0))
     (property "Value" "B-" (id 1) (at 161.7726 149.86 0))
@@ -1245,7 +1245,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 168.91 64.77 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a5fcd8c9-66db-4541-bb43-1caff29d4253)
     (property "Reference" "J5" (id 0) (at 170.3324 62.23 0))
     (property "Value" "12V" (id 1) (at 164.7444 64.77 0))
@@ -1259,7 +1259,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 168.91 72.39 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid e723b894-1653-454d-9c2d-000f192c7ab3)
     (property "Reference" "J6" (id 0) (at 170.3324 69.85 0))
     (property "Value" "GND" (id 1) (at 164.7444 72.39 0))
@@ -2060,13 +2060,13 @@
       (reference "C19") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/5be75f30-d276-492a-9eb9-21a40b23ff24/e8f3dd54-0238-4ce5-a992-69056eca88dc"
-      (reference "D4") (unit 1) (value "40V 1A") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D4") (unit 1) (value "40V 1A Schottky") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/1b355707-52f8-4151-ad6c-4e12a31e649f/e8f3dd54-0238-4ce5-a992-69056eca88dc"
-      (reference "D5") (unit 1) (value "40V 1A") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D5") (unit 1) (value "40V 1A Schottky") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/fb3b30b3-b2bc-41fe-aeeb-c16cf599aed4/e8f3dd54-0238-4ce5-a992-69056eca88dc"
-      (reference "D6") (unit 1) (value "40V 1A") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D6") (unit 1) (value "40V 1A Schottky") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/6bbb4c7d-56ba-4a53-993d-82aa5d97a0e3"
       (reference "J1") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm")
