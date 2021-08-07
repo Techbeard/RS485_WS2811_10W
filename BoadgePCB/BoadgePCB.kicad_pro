@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 2.0,
-          "width": 1.0
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -44,17 +44,11 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
-          "min_clearance": 0.254
+          "45_degree_only": false,
+          "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -101,8 +95,8 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.127,
-        "min_copper_edge_clearance": 0.19999999999999998,
+        "min_clearance": 0.0,
+        "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.0,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
@@ -116,23 +110,8 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [
-        0.0,
-        0.127,
-        0.2,
-        0.4,
-        0.5,
-        0.75,
-        1.0,
-        1.5,
-        2.0
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -352,13 +331,13 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "WS2811_3W.kicad_pro",
+    "filename": "BoadgePCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12.0,
+        "bus_width": 6.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -386,7 +365,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "WS2811_3W.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -395,7 +374,7 @@
     "annotate_start_num": 0,
     "drawing": {
       "default_bus_thickness": 12.0,
-      "default_junction_size": 40.0,
+      "default_junction_size": 36.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
@@ -431,20 +410,8 @@
   },
   "sheets": [
     [
-      "88545db7-48f6-40b9-8beb-db13926ad80c",
+      "3759dce5-0fbf-4610-a346-b20422ffda05",
       ""
-    ],
-    [
-      "5be75f30-d276-492a-9eb9-21a40b23ff24",
-      "DCDC_CC"
-    ],
-    [
-      "1b355707-52f8-4151-ad6c-4e12a31e649f",
-      "DCDC_CC1"
-    ],
-    [
-      "fb3b30b3-b2bc-41fe-aeeb-c16cf599aed4",
-      "DCDC_CC2"
     ]
   ],
   "text_variables": {}
